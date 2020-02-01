@@ -1,5 +1,6 @@
 """
 File: die.py
+Author: Samuel Tijani
 This module defines the Die class.
 """
 
