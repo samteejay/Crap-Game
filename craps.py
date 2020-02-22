@@ -1,6 +1,6 @@
 """
 File: craps.py
-Author: Samuel Tijani
+Author: Samuel O Tijani
 This module studies and plays the game of craps.
 """
 from die import Die
